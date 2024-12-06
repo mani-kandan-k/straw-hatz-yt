@@ -1,0 +1,67 @@
+TechExcelUATServer = "192.168.150.21"
+TechExcelUATPort = 51433
+TechExcelUATUser = "ftc"
+TechExcelUATPassword = "Ftc@123"
+TechExcelUATDatabase = "DevDB"
+TechExcelUATDBType = "mssql"
+
+
+
+#####setting Kambala db connection details
+KamabalaDBServer = "192.168.150.35"
+KamabalaDBPort = 5801
+KamabalaDBUser = "NorenDB"
+KamabalaDBPassword = "cozynetra2020"
+KamabalaDBDatabase = "NorenDB"
+KamabalaDBDBType = "mysql"
+
+#####setting Kambala db connection details 
+KamabalaApiDBServer = "192.168.150.-"
+KamabalaApiDBPort = 550
+KamabalaApiDBUser = ""
+KamabalaApiDBPassword = ""
+KamabalaApiDBDatabase = ""
+KamabalaApiDBDBType = "mysql"
+
+#####setting Maria db connection details
+
+MariaDBServer = "192.168.2.5"
+MariaDBPort = 3306
+MariaDBUser = "ST796"
+MariaDBPassword = "000ST79645"
+#MariaDBUser = "ST795"
+#MariaDBPassword = "000ST79544"
+MariaDBDatabase = "dev"
+MariaDBDBType = "mysql"
+
+#####setting Maria db Ekyc connection details
+
+MariaEkycServer = "192.168.2.5"
+MariaEkycPort = 3306
+MariaEkycUser = "ST796"
+MariaEkycPassword = "000ST79645"
+#MariaEkycUser = "ST795"
+#MariaEkycPassword = "000ST79544"
+MariaEkycDatabase = "ekyc"
+MariaEkycDBType = "mysql"
+
+
+SSODBServer = "192.168.150.12"
+SSODBPort = 53306
+SSODBUser = "root"
+SSODBPassword = "sql@admin!@#%"
+SSODBDatabase = "ftprd"
+SSODBDBType = "mysql"
+
+
+
+#ParthibanServer = "192.168.150.12"
+#ParthibanPort = 53306
+#ParthibanUser = "parthiban"
+#ParthibanPassword = "sql@admin!@#%"
+#ParthibanDatabase = "ftprd"
+#ParthibanDBType = "mysql"
+
+
+
+
